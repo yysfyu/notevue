@@ -14,6 +14,7 @@ sudo yum remove docker \
                   docker-engine
 ```
 
+
 ### 安装仓库
 
 ```
